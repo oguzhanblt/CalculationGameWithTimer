@@ -1,6 +1,5 @@
 import random
 import time
-from threading import Timer
 from tkinter.tix import Tree
 from pytimedinput import timedInteger
 
