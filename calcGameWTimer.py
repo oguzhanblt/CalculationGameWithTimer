@@ -75,4 +75,3 @@ while (w != soru_hakki):
                 print("Yanlış cevap.")
         print("Soru hakkınız bitti.")
         exit()
-        
